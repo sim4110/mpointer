@@ -1,5 +1,5 @@
 #include <stdio.h>
-//mpointer파일 수정
+//mpointer파일 수정1
 void func1(int* p);
 void func2(int** p);
 void func3(int*** p);
